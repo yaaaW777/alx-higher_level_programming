@@ -1,0 +1,10 @@
+case 0: import
+>>> My list = __import__('1-my_list').MyList
+>>>
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
+
+case 1: common case
+
+>>> My_list = MyList()
+>>> My_list.append(1)
+>>> My_list.append(4)
